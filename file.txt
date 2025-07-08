@@ -1,1 +1,2 @@
-Rebase test B modified
+Rebase test B
+Rebase test done.
