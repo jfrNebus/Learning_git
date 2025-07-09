@@ -1,2 +1,2 @@
-Rebase test B' modified
-Rebase test C
+Rebase test B
+Rebase test D
