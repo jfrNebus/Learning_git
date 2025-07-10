@@ -1,2 +1,0 @@
-Rebase test B' modified
-Rebase test C
